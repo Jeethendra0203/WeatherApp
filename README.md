@@ -1,5 +1,7 @@
 # React + Vite
 
+A Weather App built using HTML, CSS, JavaScript, and React that fetches real-time weather data and displays temperature, conditions, and location-based forecasts in a user-friendly interface.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
